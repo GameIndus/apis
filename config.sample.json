@@ -1,0 +1,17 @@
+{
+    "ssl": {
+        "enable": false,
+        "key": "",
+        "certificate": ""
+    },
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "gameindus"
+    },
+    "log_folder": "logs",
+    "pushbullet": {
+        "token": ""
+    }
+}
